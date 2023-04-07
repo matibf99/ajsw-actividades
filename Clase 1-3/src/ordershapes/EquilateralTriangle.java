@@ -1,4 +1,4 @@
-package orderfigures;
+package ordershapes;
 
 public class EquilateralTriangle implements GeometricShape {
 

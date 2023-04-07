@@ -1,6 +1,6 @@
-import figure.Circle;
-import figure.Rectangle;
-import figure.Triangle;
+import shape.Circle;
+import shape.Rectangle;
+import shape.Triangle;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package printfigures;
+package printshapes;
 
 import java.util.List;
 

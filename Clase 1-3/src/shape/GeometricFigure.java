@@ -1,6 +1,4 @@
-package figure;
-
-import java.util.Objects;
+package shape;
 
 public abstract class GeometricFigure {
     protected String color;

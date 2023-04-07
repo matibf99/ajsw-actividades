@@ -1,4 +1,4 @@
-package printfigures;
+package printshapes;
 
 public abstract class GeometricShape {
     private static int counter = 0;

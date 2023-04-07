@@ -1,4 +1,4 @@
-package orderfigures;
+package ordershapes;
 
 import java.util.*;
 

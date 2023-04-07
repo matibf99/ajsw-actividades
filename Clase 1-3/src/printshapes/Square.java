@@ -1,4 +1,4 @@
-package printfigures;
+package printshapes;
 
 public class Square extends GeometricShape {
 
